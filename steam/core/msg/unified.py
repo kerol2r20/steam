@@ -59,6 +59,7 @@ service_lookup = {  # MARK_SERVICE_START
     'TwoFactor':                        'steam.protobufs.steammessages_twofactor_pb2',
     'TestSteamClient':                  'steam.protobufs.steammessages_unified_test_pb2',
     'TestServerFromClient':             'steam.protobufs.steammessages_unified_test_pb2',
+    'TestExternalPrivilege':            'steam.protobufs.steammessages_unified_test_pb2',
     'UserAccount':                      'steam.protobufs.steammessages_useraccount_pb2',
     'AccountLinking':                   'steam.protobufs.steammessages_useraccount_pb2',
     'EmbeddedClient':                   'steam.protobufs.steammessages_useraccount_pb2',
