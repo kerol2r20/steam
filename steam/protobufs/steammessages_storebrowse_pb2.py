@@ -14,10 +14,10 @@ from google.protobuf import service_reflection
 _sym_db = _symbol_database.Default()
 
 
-import steam.protobufs.steammessages_base_pb2 as steammessages__base__pb2
-import steam.protobufs.steammessages_unified_base_pb2 as steammessages__unified__base__pb2
-import steam.protobufs.enums_productinfo_pb2 as enums__productinfo__pb2
-import steam.protobufs.enums_pb2 as enums__pb2
+import steam.protobufs.steam.protobufs.steammessages_base_pb2 as steammessages__base__pb2
+import steam.protobufs.steam.protobufs.steammessages_unified_base_pb2 as steammessages__unified__base__pb2
+import steam.protobufs.steam.protobufs.enums_productinfo_pb2 as enums__productinfo__pb2
+import steam.protobufs.steam.protobufs.enums_pb2 as enums__pb2
 
 
 DESCRIPTOR = _descriptor.FileDescriptor(
